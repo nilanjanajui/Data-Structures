@@ -9,7 +9,7 @@ Welcome to the **ultimate Data Structures (DS) repository**! 🌟 This repositor
 📖 **Course:** Data Structures  
 🛠 **Language:** C++  
 💻 **IDE:** Visual Studio Code  
-👩‍💻 **Author:** [Nilanjana Das Jui](https://github.com/YOUR_GITHUB_PROFILE)  
+👩‍💻 **Author:** [Nilanjana Das Jui](https://github.com/nilanjanajui)  
 📚 **Topics Covered:** Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting & Searching, and much more!
 
 ---
@@ -109,8 +109,8 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 ## 🚀 Connect with Me
 
 💬 Feel free to connect with me on **GitHub** and check out my other projects! 🚀  
-🔗 GitHub: [YOUR_GITHUB_PROFILE](https://github.com/YOUR_GITHUB_PROFILE)  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+🔗 GitHub: [Nilanjana Das Jui](https://github.com/nilanjanajui)  
+📧 Email: [nilanjana.csecu@gmail.com](mailto:nilanjana.csecu@gmail.com)  
 
 🌟 If you found this useful, don’t forget to **star ⭐** the repo!
 
