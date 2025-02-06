@@ -1,6 +1,7 @@
 # 🚀 Data Structures
 
 Welcome to the **ultimate Data Structures (DS) repository**! 
+
 🌟 This repository is a collection of all my **practice problems, competitive programming (CP) challenges, classwork, assignments, and projects** from my Data Structures course.
 
 ---
